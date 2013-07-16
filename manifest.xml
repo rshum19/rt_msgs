@@ -1,0 +1,15 @@
+<package>
+  <description brief="rt_msgs">
+
+     rt_msgs
+
+  </description>
+  <author>ken</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rt_msgs</url>
+  <!--<depend package="roscpp"/>-->
+
+</package>
+
+
