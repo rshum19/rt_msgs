@@ -13,6 +13,9 @@ uint8 OLC=4
 uint8 STATION_KEEP=5
 uint8 VEL_CONTROL=6
 uint8 BALANCE_LEGS_UP=7 
+uint8 DFC=8
+uint8 BALTEST=9
+uint8 DFCTEST=9
 
 #enum armState
 #uint8 STATIC=1
