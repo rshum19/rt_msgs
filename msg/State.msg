@@ -23,6 +23,7 @@ uint8 TRAJECTORY_GEN=4
 uint8 CALIB=5
 uint8 ARM_ZERO=6
 uint8 SYNC_CONTROL=7
+uint8 ARM_BALANCE=8
 
 #enum legState 
 uint8 GO_UP=1
