@@ -1,0 +1,2 @@
+float32 xCurrentWorldCmd
+float32 yCurrentWorldCmd
