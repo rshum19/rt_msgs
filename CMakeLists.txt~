@@ -21,7 +21,6 @@ PID.msg
 State.msg
 VelCmd.msg
 YawCmd.msg
-IOPD.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs)
