@@ -1,0 +1,4 @@
+float32 xCurrent
+float32 yCurrent
+float32 xtestCurrent
+float32 ytestCurrent
