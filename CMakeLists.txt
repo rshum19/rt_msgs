@@ -22,6 +22,7 @@ State.msg
 VelCmd.msg
 YawCmd.msg
 IOPD.msg
+ControlDebug.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs)
