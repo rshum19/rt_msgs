@@ -2,3 +2,7 @@ float32 xCurrent
 float32 yCurrent
 float32 xtestCurrent
 float32 ytestCurrent
+float32 xTorqueFeedForward
+float32 yTorqueFeedForward
+float32 xTorqueFeedBack
+float32 yTorqueFeedBack
